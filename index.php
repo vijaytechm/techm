@@ -1,4 +1,4 @@
 <?php
 
-echo "this is my index file";
+echo "this is my first index file";
 ?>
