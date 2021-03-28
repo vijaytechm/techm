@@ -1,4 +1,4 @@
 <?php
 
-echo "this is my revert file modified";
+echo "this is my revert file";
 ?>
